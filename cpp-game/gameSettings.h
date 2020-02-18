@@ -1,0 +1,9 @@
+#pragma once
+#define WINDOW_HEIGHT 600
+#define WINDOW_WIDTH 800
+#define FRAME_LIMIT 60
+#define DEFAULT_POS_X 50.0
+#define DEFAULT_POS_Y 50.0
+#define DEFAULT_SPAWN_SPEED_X 0.0
+#define DEFAULT_SPAWN_SPEED_Y 0.0
+#define GRAVITY -9.8

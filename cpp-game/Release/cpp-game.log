@@ -1,1 +1,19 @@
-﻿  cpp-game.vcxproj -> C:\Users\asus1\source\repos\cpp-game\Release\cpp-game.exe
+﻿  main.cpp
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:  '+=': truncation from 'double' to 'T'
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:         with
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:         [
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:             T=float
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:         ]
+  physicsObject.cpp
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\main.cpp(44,25): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:  '+=': truncation from 'double' to 'T'
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:         with
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:         [
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:             T=float
+C:\Users\asus1\source\repos\cpp-game-github\cpp-game\physicsObject.h(29,1): warning C4305:         ]
+  Generating code
+  6 of 163 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cpp-game.vcxproj -> C:\Users\asus1\source\repos\cpp-game-github\Release\cpp-game.exe
